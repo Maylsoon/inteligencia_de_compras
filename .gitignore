@@ -1,0 +1,13 @@
+# Dados
+bases/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
