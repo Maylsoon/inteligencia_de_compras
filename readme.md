@@ -8,6 +8,10 @@ O objetivo é transformar dados históricos de vendas em informações capazes d
 
 ---
 
+## 📈 Dashboard
+
+![Dashboard de Inteligência de Compras](imagens/dashboard.png)
+
 ## 🎯 Problema de negócio
 
 A partir dos dados de vendas, o projeto busca responder:
@@ -19,6 +23,9 @@ A partir dos dados de vendas, o projeto busca responder:
 - Quais produtos devem ser priorizados em uma nova compra?
 
 ---
+
+![Gráficos de Inteligência de Compras](imagens/graficos.png)
+
 
 ## 🧠 Solução
 
