@@ -6,7 +6,7 @@ def carregar_dados():
     conexao = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="edna1968",
+        password="",
         database="inteligencia_compras"
     )
 
